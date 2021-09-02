@@ -7,7 +7,7 @@ date: 2021-09-01
 labels:
   - JavaScript 
 ---
-## 
+
   The interest I have for computer science didn’t start until after my second year in college.
 Although I’ve been around computers for a bit the world of coding was something new and intriguing to 
 me. Coming from the mind set of java, C, and C++ style of coding and not having any prior experience 
