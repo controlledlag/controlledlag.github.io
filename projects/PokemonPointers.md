@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pica (2).png
+image: images/pica (2).jpg
 title: Pokemon Pointers
 permalink: projects/pokemon
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: Me and my team build a pokemon game using pointers
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/pica (2).png">
+<img class="ui image" src="{{ site.baseurl }}/images/pica (2).jpg">
 
   Coming from a new experienced world of java and object orientated programing I was in second ICS class where I learned C/C++. This gave me a whole perspective on coding because I was able to learn about functional coding but ever more importantly pointers. The one major thing that helped me to understand pointers better was a group project that I did for this class. The group project that we had to do was to build a Pokémon game.
   
