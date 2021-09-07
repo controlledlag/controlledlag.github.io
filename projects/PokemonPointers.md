@@ -1,4 +1,7 @@
 ---
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/pica (2).png">
+</div>
 layout: project
 type: project
 image: images/pica(2).png
