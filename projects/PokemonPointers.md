@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/pica(2).png
+image: images/pica (2).png
 title: Pokemon Pointers
-permalink: projects/cotton
+permalink: projects/pica
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-05
 labels:
