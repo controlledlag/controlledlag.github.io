@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/fiob (2).jpg
+image: images/fibo (2).jpg
 title: What Goes Around Comes Around
-permalink: projects/vacay
+permalink: projects/fibo
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-15
 labels:
