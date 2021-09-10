@@ -10,7 +10,6 @@ labels:
   - StackOverflow
 ---
 
-<img class="ui medium left floated image" src="../images/rtfm.png">
 
 ## What is a stupid question?
 
