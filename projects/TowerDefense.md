@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/td (2).png
 title: Tower Defense
-permalink: projects/micromouse
+permalink: projects/td
 # All dates must be YYYY-MM-DD format!
 date: 2017-05-01
 labels:
