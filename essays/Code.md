@@ -8,7 +8,7 @@ labels:
   - Coding
 ---
 
-  1Software engineering is a very broad subject. For me personally I cannot definitively say exactly what my main focus would be in this general field. I have too much in mind to just choose one. My degree is in security science but I have interest in things other than just security. For example one thing that has caught my interest lately is the cloud.
+  Software engineering is a very broad subject. For me personally I cannot definitively say exactly what my main focus would be in this general field. I have too much in mind to just choose one. My degree is in security science but I have interest in things other than just security. For example one thing that has caught my interest lately is the cloud.
   
   When I first heard about the cloud I instantly new this would be a critical thing to understand. It is easy to see that now especially when a lot of companies now a days are relying on the cloud for there software needs. I’m hoping to learn one of the two major cloud computing styles from Microsoft and Amazon. Preferable Microsoft so I could be more marketable for DOD occupations. I want to be able to set up applications and websites from the cloud and be able to trouble shoot frequent basic issues.
   
