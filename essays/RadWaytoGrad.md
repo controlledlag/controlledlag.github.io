@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Rad Wasy to Grad
+title: Rad Way to Grad
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-29
 labels:
