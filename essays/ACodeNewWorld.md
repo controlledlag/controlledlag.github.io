@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: Rebel in Code
+title: A Code New World
 # All dates must be YYYY-MM-DD format!
-date: 2021-09-01
+date: 2022-01-19
 labels:
   - JavaScript 
 ---
