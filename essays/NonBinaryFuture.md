@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Code to New Horizons
+title: Abstract Future
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-20
 labels:
