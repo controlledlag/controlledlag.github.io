@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/poke.png
+image: images/poke1.png
 title: Pokemon Pointers
-permalink: projects/poke
+permalink: projects/poke1
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-20
 labels:
@@ -13,7 +13,7 @@ summary: Me and my team build a pokemon game using pointers
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/poke.png">
+  <img class="ui image" src="../images/poke1.png">
 </div>
 
 I took an ICS class where I would learn C/C++. Hearing how it was like Java and how everyone said it was easy I brushed it off as easy too. That was a mistake because although C++ maybe share some similarities with Java it is a whole other beast. Learning about pointers was probably one of the single most confusing concepts I had ever had to learn. 
