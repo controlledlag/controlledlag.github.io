@@ -15,6 +15,8 @@ summary: Me and my team build a pokemon game using pointers
 <div class="ui small rounded images">
   <img class="ui image" src="../images/poke.png">
 </div>
-  Coming from a new experienced world of java and object orientated programing I was in second ICS class where I learned C/C++. This gave me a whole perspective on coding because I was able to learn about functional coding but ever more importantly pointers. The one major thing that helped me to understand pointers better was a group project that I did for this class. The group project that we had to do was to build a Pokémon game.
-  
-   Understanding how to build the structure of the game was not too bad thanks to my experience and knowledge from learning java. The hard part about this project was using pointers appropriately and understanding how to trouble shoot pointers. With pointers you could either have an address or a value to the thing that you are pointing at. I was not able to fully get how to use them effectively until one of my team members helped me to understand how they work. I feel like because of this I was able to become a better coder because all languages have pointers. Understanding this aspect helps me to see things in a different point view.
+
+I took an ICS class where I would learn C/C++. Hearing how it was like Java and how everyone said it was easy I brushed it off as easy too. That was a mistake because although C++ maybe share some similarities with Java it is a whole other beast. Learning about pointers was probably one of the single most confusing concepts I had ever had to learn. 
+
+Me and my team had to make a pokemon game using C++. Having to figure out how to use pointers properly and efficiently was no easy task. The amount of trouble shooting and tracing I had to do for this project helped me build a good understanding of how pointers worked. Another thing was that it helped me become a better problem solver. There were a lot of times during this project where I would just hit a dead end or draw blanks. One of the ways I overcame this issue was to take breaks when needed and try not to force an answer. Another skill I picked up was learning how to read another person’s code. That was probably one of the most frustrating things I had to deal with especially when team members refuse to comment on changes they made to the code. 
+
