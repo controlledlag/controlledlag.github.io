@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/btd6.png
+image: images/btd6.jpg
 title: Tower Defense
 permalink: projects/td
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ summary: Me and my team made a tower defense game.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/btd6.png">
+  <img class="ui image" src="../images/btd6.jpg">
 </div>
 
  The first time I took an ICS class I learned Java like most people. The thing is when I took this ICS class, I had no prior knowledge or experience with programming. I went into this class as blind as a bat and till this day it has been one of my most memorable class.  Me and my team had to make a game for our final project, and we decided to make a generic tower defense game. 
