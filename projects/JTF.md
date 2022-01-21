@@ -4,11 +4,12 @@ type: project
 image: images/fibo (2).jpg
 title: What Goes Around Comes Around
 permalink: projects/fibo
-# All dates must be YYYY-MM-DD format!
-date: 2018-12-15
+# All dates must be YYYY-MM-DD format!projects
+date: 2022-01-20
 labels:
-  - C++
-summary: Understanding how recursion works.
+  - Covid
+  - Medical
+summary: Covid Joint Task Force for Hawaii
 ---
 
 <img class="ui medium right floated rounded image" src="../images/fibo (2).jpg">
