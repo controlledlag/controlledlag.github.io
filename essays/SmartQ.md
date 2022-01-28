@@ -1,3 +1,4 @@
+---
 layout: essay
 type: essay
 title: To Ask or Not To Ask
